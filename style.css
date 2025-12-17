@@ -233,7 +233,7 @@ audio {
 }
 
 .whoami-box {
-  background: rgba(255, 255, 255, 0.8); /* kotak putih sedikit transparent */
+  background: rgba(255, 255, 255, 0.8); 
   border-radius: 15px;
   padding: 20px;
   max-width: 600px;
@@ -603,3 +603,4 @@ table td:hover {
     max-height: 250px;
   }
 }
+
