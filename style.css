@@ -6,7 +6,7 @@ body {
   background-image: url('backgroundwall.jpg');
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   color: #333;
 }
 
@@ -603,5 +603,6 @@ table td:hover {
     max-height: 250px;
   }
 }
+
 
 
