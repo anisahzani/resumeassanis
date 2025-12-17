@@ -7,7 +7,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
-  color: #333;
+  background-color: #E6E6FA;
 }
 
 /* Container */
@@ -603,6 +603,7 @@ table td:hover {
     max-height: 250px;
   }
 }
+
 
 
 
